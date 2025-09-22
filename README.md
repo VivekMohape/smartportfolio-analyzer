@@ -122,7 +122,7 @@ smartportfolio-analyzer/
 
 - **Market Hours**: Real-time data availability depends on market hours
 - **API Rate Limits**: Yahoo Finance has usage limits for free tier
-- **Internet Required**: Needs connection for live data (no offline mode)
+- **Internet Required**: Needs connection for live data 
 
 ## 🤝 Contributing
 
