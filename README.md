@@ -128,9 +128,7 @@ smartportfolio-analyzer/
 
 Contributions welcome! Please read our contributing guidelines and submit pull requests.
 
-## 📄 License
 
-MIT License - see LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
